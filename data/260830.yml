@@ -1,0 +1,64 @@
+about:
+  description: 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+  license: MIT
+  homepage: https://maigret.app
+  head: af89209
+  archived: false
+  latestVersion: nightly-main
+  collectedAt: 2026-08-30T05:30:10Z
+timeline:
+  created: 2020-06-27
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-14
+popularity:
+  star: 37149
+  watcher: 169
+  fork: 2890
+  release: 30
+  contributor: 73
+  pullRequest: 229
+  issue: 1598
+language:
+  Python: 713091
+  HTML: 137680
+  Go Template: 11458
+  Batchfile: 3431
+  Makefile: 947
+  Jupyter Notebook: 877
+  Dockerfile: 873
+  Shell: 805
+  CSS: 575
+totalLine: 869737
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 3
+    mergedPR: 77
+    openPR: 7
+    closedIssue: 9
+    openIssue: 13
+    commit: 71
+  last90d:
+    since: 2026-06-01
+    release: 5
+    mergedPR: 188
+    openPR: 8
+    closedIssue: 62
+    openIssue: 14
+    commit: 178
+  last180d:
+    since: 2026-03-03
+    release: 9
+    mergedPR: 429
+    openPR: 8
+    closedIssue: 206
+    openIssue: 18
+    commit: 428
+  last360d:
+    since: 2025-09-04
+    release: 9
+    mergedPR: 472
+    openPR: 8
+    closedIssue: 218
+    openIssue: 18
+    commit: 462
