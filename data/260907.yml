@@ -2,21 +2,21 @@ about:
   description: "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
   license: MIT
   homepage: https://maigret.app/gh
-  head: ec72abb
+  head: 0a724e5
   archived: false
   latestVersion: "nightly-main"
-  collectedAt: 2026-09-07T04:35:12Z
+  collectedAt: 2026-09-07T19:55:24Z
 timeline:
   created: 2020-06-27
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-14
 popularity:
-  star: 37340
+  star: 37356
   watcher: 173
-  fork: 2907
+  fork: 2911
   release: 30
   contributor: 75
-  pullRequest: 1370
+  pullRequest: 1381
   issue: 1605
 language:
   Python: 736711
@@ -33,64 +33,64 @@ recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 104
-    openPR: 10
+    mergedPR: 111
+    openPR: 14
     closedIssue: 18
     openIssue: 5
-    commit: 90
+    commit: 97
   last60d:
     since: 2026-07-09
     release: 4
-    mergedPR: 155
-    openPR: 10
+    mergedPR: 162
+    openPR: 14
     closedIssue: 42
     openIssue: 7
-    commit: 151
+    commit: 158
   last90d:
     since: 2026-06-09
     release: 5
-    mergedPR: 215
-    openPR: 10
+    mergedPR: 222
+    openPR: 14
     closedIssue: 69
     openIssue: 7
-    commit: 212
+    commit: 219
   last180d:
     since: 2026-03-11
     release: 9
-    mergedPR: 469
-    openPR: 10
+    mergedPR: 476
+    openPR: 14
     closedIssue: 220
     openIssue: 11
-    commit: 468
+    commit: 475
   last360d:
     since: 2025-09-12
     release: 9
-    mergedPR: 508
-    openPR: 10
+    mergedPR: 515
+    openPR: 14
     closedIssue: 232
     openIssue: 11
-    commit: 501
+    commit: 508
   last720d:
     since: 2024-09-17
     release: 10
-    mergedPR: 670
-    openPR: 10
+    mergedPR: 677
+    openPR: 14
     closedIssue: 447
     openIssue: 11
-    commit: 679
+    commit: 686
 total:
   release: 30
-  mergedPR: 1138
-  openPR: 10
+  mergedPR: 1145
+  openPR: 14
   closedIssue: 1591
   openIssue: 14
-  commit: 1593
+  commit: 1600
 ---
 path: /home/runner/.x-repo/github.com/soxoj/maigret
-collectedAt: 2026-09-07T04:35:18Z
+collectedAt: 2026-09-07T19:55:30Z
 loc:
   Json:
-    code: 57210
+    code: 62323
     comments: 0
     blanks: 0
     files: 4
@@ -171,7 +171,7 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 6287
+    comments: 6786
     blanks: 459
     files: 9
   Text:
@@ -180,8 +180,8 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 78119
-  comments: 7473
+  code: 83232
+  comments: 7972
   blanks: 8951
   files: 122
 ---
@@ -320,7 +320,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:35:18+00:00
+  collectedAt: 2026-09-07T19:55:31+00:00
   platform:
     darwin/arm64:
       name:  null
