@@ -5,18 +5,18 @@ about:
   head: 12ec10b
   archived: false
   latestVersion: "nightly-main"
-  collectedAt: 2026-09-08T01:51:28Z
+  collectedAt: 2026-09-08T04:34:05Z
 timeline:
   created: 2020-06-27
   lastCommit: 2026-09-07
   lastRelease: 2026-08-14
 popularity:
-  star: 37359
+  star: 37361
   watcher: 173
   fork: 2912
   release: 30
   contributor: 75
-  pullRequest: 1382
+  pullRequest: 1384
   issue: 1605
 language:
   Python: 736711
@@ -34,7 +34,7 @@ recent:
     since: 2026-08-09
     release: 3
     mergedPR: 111
-    openPR: 14
+    openPR: 15
     closedIssue: 18
     openIssue: 5
     commit: 98
@@ -42,7 +42,7 @@ recent:
     since: 2026-07-10
     release: 4
     mergedPR: 163
-    openPR: 14
+    openPR: 15
     closedIssue: 37
     openIssue: 7
     commit: 159
@@ -50,7 +50,7 @@ recent:
     since: 2026-06-10
     release: 5
     mergedPR: 220
-    openPR: 14
+    openPR: 15
     closedIssue: 66
     openIssue: 7
     commit: 220
@@ -58,7 +58,7 @@ recent:
     since: 2026-03-12
     release: 9
     mergedPR: 475
-    openPR: 14
+    openPR: 15
     closedIssue: 220
     openIssue: 11
     commit: 476
@@ -66,7 +66,7 @@ recent:
     since: 2025-09-13
     release: 9
     mergedPR: 516
-    openPR: 14
+    openPR: 15
     closedIssue: 232
     openIssue: 11
     commit: 509
@@ -74,20 +74,20 @@ recent:
     since: 2024-09-18
     release: 10
     mergedPR: 678
-    openPR: 14
+    openPR: 15
     closedIssue: 445
     openIssue: 11
     commit: 687
 total:
   release: 30
   mergedPR: 1146
-  openPR: 14
+  openPR: 15
   closedIssue: 1591
   openIssue: 14
   commit: 1601
 ---
 path: /home/runner/.x-repo/github.com/soxoj/maigret
-collectedAt: 2026-09-08T01:51:34Z
+collectedAt: 2026-09-08T04:34:11Z
 loc:
   Json:
     code: 63128
