@@ -2,28 +2,28 @@ about:
   description: "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
   license: MIT
   homepage: https://maigret.app/gh
-  head: 8484d74
+  head: 578d603
   archived: false
   latestVersion: "nightly-main"
   latestRelease: "v0.6.5"
   latestPrerelease: "nightly-main"
-  collectedAt: 2026-09-09T04:47:56Z
+  collectedAt: 2026-09-09T18:38:57Z
 timeline:
   created: 2020-06-27
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-14
   lastRelease: 2026-08-25
   lastPrerelease: 2026-08-14
 popularity:
-  star: 37392
+  star: 37405
   watcher: 172
-  fork: 2913
+  fork: 2916
   release: 30
   contributor: 76
-  pullRequest: 1390
-  issue: 1606
+  pullRequest: 1398
+  issue: 1608
 language:
-  Python: 736711
+  Python: 741166
   HTML: 137680
   Go Template: 11458
   Batchfile: 3431
@@ -32,76 +32,76 @@ language:
   Dockerfile: 873
   Shell: 821
   CSS: 575
-totalBytes: 893373
+totalBytes: 897828
 recent:
   last30d:
     since: 2026-08-10
     release: 3
-    mergedPR: 111
-    openPR: 15
-    closedIssue: 18
-    openIssue: 6
-    commit: 102
+    mergedPR: 116
+    openPR: 18
+    closedIssue: 19
+    openIssue: 7
+    commit: 107
   last60d:
     since: 2026-07-11
     release: 4
-    mergedPR: 165
-    openPR: 16
-    closedIssue: 37
-    openIssue: 8
-    commit: 163
+    mergedPR: 170
+    openPR: 19
+    closedIssue: 38
+    openIssue: 9
+    commit: 168
   last90d:
     since: 2026-06-11
     release: 5
-    mergedPR: 224
-    openPR: 16
-    closedIssue: 63
-    openIssue: 8
-    commit: 224
+    mergedPR: 229
+    openPR: 19
+    closedIssue: 64
+    openIssue: 9
+    commit: 229
   last180d:
     since: 2026-03-13
     release: 9
-    mergedPR: 479
-    openPR: 16
-    closedIssue: 220
-    openIssue: 12
-    commit: 480
+    mergedPR: 484
+    openPR: 19
+    closedIssue: 221
+    openIssue: 13
+    commit: 485
   last360d:
     since: 2025-09-14
     release: 9
-    mergedPR: 520
-    openPR: 16
-    closedIssue: 232
-    openIssue: 12
-    commit: 513
+    mergedPR: 525
+    openPR: 19
+    closedIssue: 233
+    openIssue: 13
+    commit: 518
   last720d:
     since: 2024-09-19
     release: 10
-    mergedPR: 682
-    openPR: 16
-    closedIssue: 445
-    openIssue: 12
-    commit: 691
+    mergedPR: 687
+    openPR: 19
+    closedIssue: 446
+    openIssue: 13
+    commit: 696
 total:
   release: 30
-  mergedPR: 1150
-  openPR: 16
-  closedIssue: 1591
-  openIssue: 15
-  commit: 1605
+  mergedPR: 1155
+  openPR: 19
+  closedIssue: 1592
+  openIssue: 16
+  commit: 1610
 ---
 path: /home/runner/.x-repo/github.com/soxoj/maigret
-collectedAt: 2026-09-09T04:48:02Z
+collectedAt: 2026-09-09T18:39:06Z
 loc:
   Json:
-    code: 63188
+    code: 67072
     comments: 0
     blanks: 0
     files: 4
   Python:
-    code: 16121
-    comments: 1057
-    blanks: 3572
+    code: 16218
+    comments: 1068
+    blanks: 3589
     files: 65
   ReStructuredText:
     code: 2295
@@ -175,7 +175,7 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 6889
+    comments: 7272
     blanks: 463
     files: 9
   Text:
@@ -184,9 +184,9 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 84097
-  comments: 8075
-  blanks: 8955
+  code: 88078
+  comments: 8469
+  blanks: 8972
   files: 122
 ---
 date: "2026-09-07"
