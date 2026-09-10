@@ -1,0 +1,120 @@
+- repo: aur
+  srcname: maigret
+  binname: maigret
+  visiblename: maigret
+  version: 0.6.5
+  origversion: 0.6.5-1
+  status: newest
+  summary: Collect a dossier on a person by username from thousands of sites
+  maintainers:
+    - lapsus@aur
+  licenses:
+    - MIT
+- repo: blackarch
+  srcname: maigret
+  binname: maigret
+  visiblename: maigret
+  version: v0.5.0.r66.g2d4d3ba
+  origversion: 1:v0.5.0.r66.g2d4d3ba-1
+  status: outdated
+  summary: OSINT username checker. Collect a dossier on a person by username from a huge number of sites.
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: maigret
+  visiblename: maigret
+  version: 0.6.5
+  origversion: null
+  status: newest
+  summary: Collect a dossier on a person by username from thousands of sites
+- repo: homebrew
+  srcname: maigret
+  visiblename: maigret
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Collect a dossier on a person by username from thousands of sites
+- repo: macports
+  srcname: python/maigret
+  binname: maigret
+  visiblename: maigret
+  version: 0.6.5
+  origversion: null
+  status: newest
+  summary: Maigret collects a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
+  maintainers:
+    - mps@macports
+    - schamschula@github
+  licenses:
+    - MIT
+  categories:
+    - python
+- repo: nix_stable_24_05
+  srcname: maigret
+  visiblename: maigret
+  version: 0.4.4
+  origversion: null
+  status: outdated
+  summary: Tool to collect details about an username
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: maigret
+  visiblename: maigret
+  version: 0.4.4
+  origversion: null
+  status: outdated
+  summary: Tool to collect details about an username
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: maigret
+  visiblename: maigret
+  version: 0.4.4
+  origversion: null
+  status: outdated
+  summary: Tool to collect details about an username
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: maigret
+  visiblename: maigret
+  version: 0.4.4
+  origversion: null
+  status: outdated
+  summary: Tool to collect details about an username
+  maintainers:
+    - mail@fabian-affolter.ch
+    - thtrf@proton.me
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: maigret
+  visiblename: maigret
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: Tool to collect details about an username
+  maintainers:
+    - mail@fabian-affolter.ch
+    - thtrf@proton.me
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: maigret
+  visiblename: maigret
+  version: 0.6.5
+  origversion: null
+  status: newest
+  summary: Tool to collect details about an username
+  maintainers:
+    - mail@fabian-affolter.ch
+    - thtrf@proton.me
+  licenses:
+    - MIT

@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly-main"
   latestRelease: "v0.6.5"
   latestPrerelease: "nightly-main"
-  collectedAt: 2026-09-10T16:10:29Z
+  collectedAt: 2026-09-10T21:28:11Z
 timeline:
   created: 2020-06-27
   lastCommit: 2026-09-09
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-25
   lastPrerelease: 2026-08-14
 popularity:
-  star: 37427
+  star: 37430
   watcher: 172
   fork: 2919
   release: 30
   contributor: 76
-  pullRequest: 1421
+  pullRequest: 1423
   issue: 1608
 language:
   Python: 741166
@@ -38,7 +38,7 @@ recent:
     since: 2026-08-11
     release: 3
     mergedPR: 107
-    openPR: 39
+    openPR: 41
     closedIssue: 16
     openIssue: 7
     commit: 107
@@ -46,7 +46,7 @@ recent:
     since: 2026-07-12
     release: 4
     mergedPR: 170
-    openPR: 40
+    openPR: 42
     closedIssue: 38
     openIssue: 9
     commit: 168
@@ -54,7 +54,7 @@ recent:
     since: 2026-06-12
     release: 5
     mergedPR: 227
-    openPR: 40
+    openPR: 42
     closedIssue: 63
     openIssue: 9
     commit: 229
@@ -62,7 +62,7 @@ recent:
     since: 2026-03-14
     release: 9
     mergedPR: 484
-    openPR: 40
+    openPR: 42
     closedIssue: 221
     openIssue: 13
     commit: 485
@@ -70,7 +70,7 @@ recent:
     since: 2025-09-15
     release: 9
     mergedPR: 523
-    openPR: 40
+    openPR: 42
     closedIssue: 233
     openIssue: 13
     commit: 518
@@ -78,20 +78,20 @@ recent:
     since: 2024-09-20
     release: 10
     mergedPR: 687
-    openPR: 40
+    openPR: 42
     closedIssue: 442
     openIssue: 13
     commit: 696
 total:
   release: 30
   mergedPR: 1155
-  openPR: 40
+  openPR: 42
   closedIssue: 1592
   openIssue: 16
   commit: 1610
 ---
 path: /home/runner/.x-repo/github.com/soxoj/maigret
-collectedAt: 2026-09-10T16:10:35Z
+collectedAt: 2026-09-10T21:28:18Z
 loc:
   Json:
     code: 67072
