@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: maigret
+  visiblename: maigret
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Collect a dossier on a person by username from thousands of sites
 - repo: aur
   srcname: maigret
   binname: maigret
@@ -14,9 +21,9 @@
   srcname: maigret
   binname: maigret
   visiblename: maigret
-  version: v0.5.0.r66.g2d4d3ba
-  origversion: 1:v0.5.0.r66.g2d4d3ba-1
-  status: outdated
+  version: 0.6.5
+  origversion: 2:0.6.5-1
+  status: newest
   summary: OSINT username checker. Collect a dossier on a person by username from a huge number of sites.
   licenses:
     - MIT
@@ -26,13 +33,6 @@
   version: 0.6.5
   origversion: null
   status: newest
-  summary: Collect a dossier on a person by username from thousands of sites
-- repo: homebrew
-  srcname: maigret
-  visiblename: maigret
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Collect a dossier on a person by username from thousands of sites
 - repo: macports
   srcname: python/maigret
