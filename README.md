@@ -14,12 +14,12 @@ x install maigret
 
 ## Code insight
 
-Total: **87,370** lines of code across **96** files in the top 5 languages.
+Total: **88,218** lines of code across **97** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 67,072 | 0 | 0 | 4 |
-| Python | 16,218 | 1,068 | 3,589 | 65 |
+| Json | 67,808 | 0 | 0 | 4 |
+| Python | 16,330 | 1,076 | 3,616 | 66 |
 | ReStructuredText | 2,295 | 0 | 978 | 18 |
 | Html | 1,071 | 1 | 3,770 | 7 |
 | Pan | 225 | 0 | 1 | 2 |
@@ -43,34 +43,34 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly-main` (2026-08-25)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
-- **Stars**: 37,433 · **Forks**: 2,920 · **Open issues**: 1,608 · **Contributors**: 76
+- **Stars**: 37,448 · **Forks**: 2,922 · **Open issues**: 1,609 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 1155 · **Open PRs**: 42 · **Closed issues**: 1592 · **Open issues**: 16 · **Commits**: 1610
+- **Releases**: 30 · **Merged PRs**: 1158 · **Open PRs**: 39 · **Closed issues**: 1593 · **Open issues**: 16 · **Commits**: 1613
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 102 | 41 | 16 | 6 | 107 |
-| last60d | 2026-07-13 | 4 | 168 | 42 | 38 | 9 | 168 |
-| 90d | 2026-06-13 | 5 | 227 | 42 | 62 | 9 | 229 |
-| last180d | 2026-03-15 | 9 | 484 | 42 | 221 | 13 | 485 |
-| 360d | 2025-09-16 | 9 | 523 | 42 | 233 | 13 | 518 |
-| last720d | 2024-09-21 | 10 | 687 | 42 | 440 | 13 | 696 |
+| 30d | 2026-08-12 | 2 | 105 | 38 | 17 | 6 | 110 |
+| last60d | 2026-07-13 | 4 | 171 | 39 | 39 | 9 | 171 |
+| 90d | 2026-06-13 | 5 | 230 | 39 | 63 | 9 | 232 |
+| last180d | 2026-03-15 | 9 | 487 | 39 | 222 | 13 | 488 |
+| 360d | 2025-09-16 | 9 | 526 | 39 | 234 | 13 | 521 |
+| last720d | 2024-09-21 | 10 | 690 | 39 | 441 | 13 | 699 |
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/maigret). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/maigret). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.6.5` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.6.5` | ✅ latest |
 
 ## Improve this data
@@ -82,4 +82,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:35:54Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:26:15Z._
