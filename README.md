@@ -14,11 +14,11 @@ x install maigret
 
 ## Code insight
 
-Total: **90,884** lines of code across **97** files in the top 5 languages.
+Total: **92,401** lines of code across **97** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 70,474 | 0 | 0 | 4 |
+| Json | 71,991 | 0 | 0 | 4 |
 | Python | 16,330 | 1,076 | 3,616 | 66 |
 | ReStructuredText | 2,295 | 0 | 978 | 18 |
 | Html | 1,071 | 1 | 3,770 | 7 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly-main` (2026-08-25)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 
 ## Popularity
 
-- **Stars**: 37,540 · **Forks**: 2,929 · **Open issues**: 1,611 · **Contributors**: 76
+- **Stars**: 37,595 · **Forks**: 2,938 · **Open issues**: 1,615 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 1163 · **Open PRs**: 43 · **Closed issues**: 1593 · **Open issues**: 18 · **Commits**: 1618
+- **Releases**: 30 · **Merged PRs**: 1165 · **Open PRs**: 43 · **Closed issues**: 1593 · **Open issues**: 22 · **Commits**: 1620
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 103 | 42 | 16 | 8 | 92 |
-| last60d | 2026-07-17 | 3 | 168 | 43 | 37 | 10 | 156 |
-| 90d | 2026-06-17 | 5 | 226 | 43 | 61 | 11 | 218 |
-| last180d | 2026-03-19 | 9 | 491 | 43 | 222 | 15 | 450 |
-| 360d | 2025-09-20 | 9 | 528 | 43 | 234 | 15 | 526 |
-| last720d | 2024-09-25 | 10 | 695 | 43 | 434 | 15 | 704 |
+| 30d | 2026-08-17 | 1 | 102 | 42 | 16 | 12 | 94 |
+| last60d | 2026-07-18 | 3 | 170 | 43 | 37 | 14 | 158 |
+| 90d | 2026-06-18 | 5 | 225 | 43 | 61 | 15 | 220 |
+| last180d | 2026-03-20 | 9 | 490 | 43 | 219 | 19 | 452 |
+| 360d | 2025-09-21 | 9 | 530 | 43 | 234 | 19 | 528 |
+| last720d | 2024-09-26 | 10 | 697 | 43 | 432 | 19 | 706 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:56:40Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:54:07Z._
