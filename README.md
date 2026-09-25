@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 37,923 · **Forks**: 2,979 · **Open issues**: 1,618 · **Contributors**: 78
+- **Stars**: 37,947 · **Forks**: 2,982 · **Open issues**: 1,618 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1185 · **Open PRs**: 44 · **Closed issues**: 1593 · **Open issues**: 25 · **Commits**: 1640
+- **Releases**: 29 · **Merged PRs**: 1185 · **Open PRs**: 46 · **Closed issues**: 1593 · **Open issues**: 25 · **Commits**: 1640
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 2 | 98 | 41 | 9 | 15 | 95 |
-| last60d | 2026-07-26 | 4 | 169 | 44 | 31 | 17 | 167 |
-| 90d | 2026-06-26 | 6 | 226 | 44 | 60 | 18 | 228 |
-| last180d | 2026-03-28 | 8 | 434 | 44 | 164 | 22 | 434 |
-| 360d | 2025-09-29 | 8 | 546 | 44 | 234 | 22 | 540 |
-| last720d | 2024-10-04 | 9 | 717 | 44 | 424 | 22 | 726 |
+| 30d | 2026-08-26 | 1 | 95 | 43 | 7 | 15 | 95 |
+| last60d | 2026-07-27 | 4 | 165 | 46 | 29 | 17 | 167 |
+| 90d | 2026-06-27 | 6 | 224 | 46 | 60 | 18 | 228 |
+| last180d | 2026-03-29 | 8 | 434 | 46 | 163 | 22 | 434 |
+| 360d | 2025-09-30 | 8 | 546 | 46 | 234 | 22 | 540 |
+| last720d | 2024-10-05 | 9 | 717 | 46 | 420 | 22 | 726 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:42:11Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:55:05Z._
