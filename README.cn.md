@@ -30,7 +30,7 @@ x install maigret
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/26 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 5/23 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ x install maigret
 
 ## 流行度
 
-- **Star**: 38,101 · **Fork**: 2,997 · **开放 issue**: 1,619 · **贡献者**: 78
+- **Star**: 38,156 · **Fork**: 3,002 · **开放 issue**: 1,611 · **贡献者**: 78
 
 ## 累计统计
 
-- **发布数**: 29 · **已合并 PR**: 1194 · **开放 PR**: 46 · **已关闭 issue**: 1593 · **开放 issue**: 26 · **提交数**: 1649
+- **发布数**: 29 · **已合并 PR**: 1194 · **开放 PR**: 47 · **已关闭 issue**: 1585 · **开放 issue**: 26 · **提交数**: 1649
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 83 | 43 | 5 | 15 | 73 |
-| last60d | 2026-07-31 | 4 | 173 | 46 | 25 | 18 | 171 |
-| 90d | 2026-07-01 | 6 | 224 | 46 | 55 | 19 | 218 |
-| last180d | 2026-04-02 | 8 | 433 | 46 | 158 | 23 | 429 |
-| 360d | 2025-10-04 | 8 | 553 | 46 | 234 | 23 | 548 |
-| last720d | 2024-10-09 | 9 | 726 | 46 | 410 | 23 | 735 |
+| 30d | 2026-08-31 | 1 | 76 | 42 | 4 | 15 | 73 |
+| last60d | 2026-08-01 | 4 | 173 | 47 | 25 | 18 | 171 |
+| 90d | 2026-07-02 | 5 | 223 | 47 | 55 | 19 | 218 |
+| last180d | 2026-04-03 | 8 | 432 | 47 | 157 | 23 | 429 |
+| 360d | 2025-10-05 | 8 | 553 | 47 | 234 | 23 | 548 |
+| last720d | 2024-10-10 | 9 | 726 | 47 | 406 | 23 | 735 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ maigret 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T05:49:14Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T05:28:53Z._
