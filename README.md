@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly-main` (2026-09-18)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-05
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 38,317 · **Forks**: 3,017 · **Open issues**: 1,613 · **Contributors**: 80
+- **Stars**: 38,351 · **Forks**: 3,019 · **Open issues**: 1,621 · **Contributors**: 80
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1218 · **Open PRs**: 34 · **Closed issues**: 1588 · **Open issues**: 25 · **Commits**: 1673
+- **Releases**: 29 · **Merged PRs**: 1220 · **Open PRs**: 36 · **Closed issues**: 1596 · **Open issues**: 25 · **Commits**: 1675
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 83 | 25 | 4 | 13 | 63 |
-| last60d | 2026-08-06 | 4 | 185 | 34 | 25 | 17 | 175 |
-| 90d | 2026-07-07 | 5 | 238 | 34 | 54 | 18 | 236 |
-| last180d | 2026-04-08 | 8 | 439 | 34 | 159 | 22 | 426 |
-| 360d | 2025-10-10 | 8 | 574 | 34 | 237 | 22 | 565 |
-| last720d | 2024-10-15 | 9 | 750 | 34 | 400 | 22 | 759 |
+| 30d | 2026-09-06 | 1 | 81 | 27 | 3 | 13 | 65 |
+| last60d | 2026-08-07 | 4 | 186 | 36 | 25 | 16 | 177 |
+| 90d | 2026-07-08 | 5 | 238 | 36 | 50 | 18 | 238 |
+| last180d | 2026-04-09 | 8 | 438 | 36 | 139 | 22 | 428 |
+| 360d | 2025-10-11 | 8 | 576 | 36 | 237 | 22 | 567 |
+| last720d | 2024-10-16 | 9 | 752 | 36 | 399 | 22 | 761 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:37:54Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:14:46Z._
