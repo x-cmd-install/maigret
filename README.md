@@ -30,7 +30,7 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 8/21 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 7/21 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 38,871 · **Forks**: 3,063 · **Open issues**: 1,627 · **Contributors**: 84
+- **Stars**: 38,946 · **Forks**: 3,070 · **Open issues**: 1,627 · **Contributors**: 84
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 65 | 8 | 4 | 13 | 67 |
-| last60d | 2026-08-14 | 3 | 186 | 12 | 23 | 18 | 177 |
-| 90d | 2026-07-15 | 4 | 252 | 12 | 43 | 20 | 248 |
-| last180d | 2026-04-16 | 7 | 445 | 12 | 137 | 24 | 443 |
-| 360d | 2025-10-18 | 8 | 592 | 12 | 241 | 24 | 586 |
-| last720d | 2024-10-23 | 9 | 773 | 12 | 389 | 24 | 781 |
+| 30d | 2026-09-14 | 1 | 63 | 7 | 4 | 13 | 67 |
+| last60d | 2026-08-15 | 2 | 183 | 12 | 23 | 18 | 177 |
+| 90d | 2026-07-16 | 4 | 250 | 12 | 43 | 20 | 248 |
+| last180d | 2026-04-17 | 7 | 443 | 12 | 135 | 24 | 443 |
+| 360d | 2025-10-19 | 8 | 592 | 12 | 241 | 24 | 586 |
+| last720d | 2024-10-24 | 9 | 773 | 12 | 388 | 24 | 781 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:50:20Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:53:05Z._
