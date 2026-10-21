@@ -26,11 +26,11 @@ Total: **119,603** lines of code across **97** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.9 / 10**
+Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 7/21 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 39,233 · **Forks**: 3,095 · **Open issues**: 1,639 · **Contributors**: 83
+- **Stars**: 39,254 · **Forks**: 3,098 · **Open issues**: 1,640 · **Contributors**: 83
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1242 · **Open PRs**: 18 · **Closed issues**: 1599 · **Open issues**: 40 · **Commits**: 1698
+- **Releases**: 29 · **Merged PRs**: 1242 · **Open PRs**: 18 · **Closed issues**: 1599 · **Open issues**: 41 · **Commits**: 1698
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 46 | 12 | 2 | 22 | 57 |
-| last60d | 2026-08-21 | 2 | 164 | 18 | 20 | 31 | 156 |
-| 90d | 2026-07-22 | 4 | 231 | 18 | 38 | 33 | 230 |
-| last180d | 2026-04-23 | 7 | 423 | 18 | 129 | 37 | 420 |
-| 360d | 2025-10-25 | 8 | 589 | 18 | 240 | 37 | 585 |
-| last720d | 2024-10-30 | 9 | 771 | 18 | 382 | 37 | 781 |
+| 30d | 2026-09-21 | 0 | 42 | 12 | 1 | 22 | 57 |
+| last60d | 2026-08-22 | 2 | 164 | 18 | 20 | 32 | 156 |
+| 90d | 2026-07-23 | 4 | 229 | 18 | 38 | 34 | 230 |
+| last180d | 2026-04-24 | 7 | 422 | 18 | 129 | 38 | 420 |
+| 360d | 2025-10-26 | 8 | 589 | 18 | 240 | 38 | 585 |
+| last720d | 2024-10-31 | 9 | 771 | 18 | 381 | 38 | 781 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:42:59Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:36:21Z._

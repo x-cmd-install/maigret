@@ -26,11 +26,11 @@ x install maigret
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.9 / 10**
+总评分: **4.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 7/21 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ x install maigret
 
 ## 流行度
 
-- **Star**: 39,233 · **Fork**: 3,095 · **开放 issue**: 1,639 · **贡献者**: 83
+- **Star**: 39,254 · **Fork**: 3,098 · **开放 issue**: 1,640 · **贡献者**: 83
 
 ## 累计统计
 
-- **发布数**: 29 · **已合并 PR**: 1242 · **开放 PR**: 18 · **已关闭 issue**: 1599 · **开放 issue**: 40 · **提交数**: 1698
+- **发布数**: 29 · **已合并 PR**: 1242 · **开放 PR**: 18 · **已关闭 issue**: 1599 · **开放 issue**: 41 · **提交数**: 1698
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 46 | 12 | 2 | 22 | 57 |
-| last60d | 2026-08-21 | 2 | 164 | 18 | 20 | 31 | 156 |
-| 90d | 2026-07-22 | 4 | 231 | 18 | 38 | 33 | 230 |
-| last180d | 2026-04-23 | 7 | 423 | 18 | 129 | 37 | 420 |
-| 360d | 2025-10-25 | 8 | 589 | 18 | 240 | 37 | 585 |
-| last720d | 2024-10-30 | 9 | 771 | 18 | 382 | 37 | 781 |
+| 30d | 2026-09-21 | 0 | 42 | 12 | 1 | 22 | 57 |
+| last60d | 2026-08-22 | 2 | 164 | 18 | 20 | 32 | 156 |
+| 90d | 2026-07-23 | 4 | 229 | 18 | 38 | 34 | 230 |
+| last180d | 2026-04-24 | 7 | 422 | 18 | 129 | 38 | 420 |
+| 360d | 2025-10-26 | 8 | 589 | 18 | 240 | 38 | 585 |
+| last720d | 2024-10-31 | 9 | 771 | 18 | 381 | 38 | 781 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ maigret 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T04:42:59Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T04:36:22Z._
