@@ -1,3 +1,25 @@
+- repo: nix_stable_24_05
+  srcname: maigret
+  visiblename: maigret
+  version: 0.4.4
+  origversion: null
+  status: outdated
+  summary: Tool to collect details about an username
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: maigret
+  visiblename: maigret
+  version: 0.4.4
+  origversion: null
+  status: outdated
+  summary: Tool to collect details about an username
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
 - repo: aur
   srcname: maigret
   binname: maigret
@@ -15,7 +37,7 @@
   binname: maigret
   visiblename: maigret
   version: 0.6.5
-  origversion: 2:0.6.5-1
+  origversion: 2:0.6.5-2
   status: outdated
   summary: OSINT username checker. Collect a dossier on a person by username from a huge number of sites.
   licenses:
@@ -49,28 +71,6 @@
     - MIT
   categories:
     - python
-- repo: nix_stable_24_05
-  srcname: maigret
-  visiblename: maigret
-  version: 0.4.4
-  origversion: null
-  status: outdated
-  summary: Tool to collect details about an username
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: maigret
-  visiblename: maigret
-  version: 0.4.4
-  origversion: null
-  status: outdated
-  summary: Tool to collect details about an username
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
 - repo: nix_stable_25_05
   srcname: maigret
   visiblename: maigret
