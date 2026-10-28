@@ -26,13 +26,13 @@ Total: **120,744** lines of code across **98** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.8 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly-main` (2026-09-18)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-27
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 39,385 · **Forks**: 3,101 · **Open issues**: 1,645 · **Contributors**: 86
+- **Stars**: 39,393 · **Forks**: 3,103 · **Open issues**: 1,646 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1258 · **Open PRs**: 11 · **Closed issues**: 1614 · **Open issues**: 31 · **Commits**: 1714
+- **Releases**: 29 · **Merged PRs**: 1262 · **Open PRs**: 9 · **Closed issues**: 1614 · **Open issues**: 32 · **Commits**: 1718
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 49 | 5 | 14 | 14 | 64 |
-| last60d | 2026-08-28 | 1 | 158 | 10 | 27 | 24 | 138 |
-| 90d | 2026-07-29 | 4 | 237 | 11 | 47 | 26 | 238 |
-| last180d | 2026-04-30 | 7 | 428 | 11 | 133 | 28 | 420 |
-| 360d | 2025-11-01 | 8 | 604 | 11 | 256 | 28 | 601 |
-| last720d | 2024-11-06 | 9 | 787 | 11 | 395 | 28 | 797 |
+| 30d | 2026-09-28 | 0 | 50 | 3 | 14 | 15 | 68 |
+| last60d | 2026-08-29 | 1 | 160 | 8 | 26 | 24 | 142 |
+| 90d | 2026-07-30 | 4 | 241 | 9 | 46 | 27 | 242 |
+| last180d | 2026-05-01 | 7 | 431 | 9 | 132 | 29 | 424 |
+| 360d | 2025-11-02 | 8 | 608 | 9 | 256 | 29 | 605 |
+| last720d | 2024-11-07 | 9 | 791 | 9 | 395 | 29 | 801 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:56:35Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:31:45Z._

@@ -26,13 +26,13 @@ x install maigret
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.8 / 10**
+总评分: **5.1 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install maigret
 ## 发布
 
 - **最新版本**: `nightly-main` (2026-09-18)
-- **最近提交**: 2026-10-24
+- **最近提交**: 2026-10-27
 - **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 39,385 · **Fork**: 3,101 · **开放 issue**: 1,645 · **贡献者**: 86
+- **Star**: 39,393 · **Fork**: 3,103 · **开放 issue**: 1,646 · **贡献者**: 86
 
 ## 累计统计
 
-- **发布数**: 29 · **已合并 PR**: 1258 · **开放 PR**: 11 · **已关闭 issue**: 1614 · **开放 issue**: 31 · **提交数**: 1714
+- **发布数**: 29 · **已合并 PR**: 1262 · **开放 PR**: 9 · **已关闭 issue**: 1614 · **开放 issue**: 32 · **提交数**: 1718
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 49 | 5 | 14 | 14 | 64 |
-| last60d | 2026-08-28 | 1 | 158 | 10 | 27 | 24 | 138 |
-| 90d | 2026-07-29 | 4 | 237 | 11 | 47 | 26 | 238 |
-| last180d | 2026-04-30 | 7 | 428 | 11 | 133 | 28 | 420 |
-| 360d | 2025-11-01 | 8 | 604 | 11 | 256 | 28 | 601 |
-| last720d | 2024-11-06 | 9 | 787 | 11 | 395 | 28 | 797 |
+| 30d | 2026-09-28 | 0 | 50 | 3 | 14 | 15 | 68 |
+| last60d | 2026-08-29 | 1 | 160 | 8 | 26 | 24 | 142 |
+| 90d | 2026-07-30 | 4 | 241 | 9 | 46 | 27 | 242 |
+| last180d | 2026-05-01 | 7 | 431 | 9 | 132 | 29 | 424 |
+| 360d | 2025-11-02 | 8 | 608 | 9 | 256 | 29 | 605 |
+| last720d | 2024-11-07 | 9 | 791 | 9 | 395 | 29 | 801 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ maigret 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T04:56:36Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:31:45Z._
