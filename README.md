@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly-main` (2026-09-18)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-04
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 39,660 · **Forks**: 3,158 · **Open issues**: 1,652 · **Contributors**: 86
+- **Stars**: 39,682 · **Forks**: 3,161 · **Open issues**: 1,653 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1268 · **Open PRs**: 17 · **Closed issues**: 1615 · **Open issues**: 37 · **Commits**: 1724
+- **Releases**: 29 · **Merged PRs**: 1269 · **Open PRs**: 19 · **Closed issues**: 1615 · **Open issues**: 38 · **Commits**: 1725
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 40 | 11 | 14 | 19 | 42 |
-| last60d | 2026-09-05 | 1 | 132 | 13 | 22 | 28 | 118 |
-| 90d | 2026-08-06 | 4 | 235 | 17 | 43 | 32 | 239 |
-| last180d | 2026-05-08 | 7 | 419 | 17 | 124 | 34 | 414 |
-| 360d | 2025-11-09 | 8 | 614 | 17 | 256 | 34 | 610 |
-| last720d | 2024-11-14 | 9 | 797 | 17 | 384 | 34 | 807 |
+| 30d | 2026-10-06 | 0 | 39 | 13 | 14 | 20 | 43 |
+| last60d | 2026-09-06 | 1 | 129 | 15 | 21 | 29 | 119 |
+| 90d | 2026-08-07 | 4 | 235 | 19 | 43 | 32 | 240 |
+| last180d | 2026-05-09 | 7 | 419 | 19 | 122 | 34 | 415 |
+| 360d | 2025-11-10 | 8 | 613 | 19 | 256 | 35 | 611 |
+| last720d | 2024-11-15 | 9 | 798 | 19 | 384 | 35 | 808 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:16:40Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:40:02Z._
