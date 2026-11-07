@@ -14,12 +14,12 @@ x install maigret
 
 ## Code insight
 
-Total: **124,043** lines of code across **98** files in the top 5 languages.
+Total: **128,906** lines of code across **98** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 102,694 | 0 | 0 | 4 |
-| Python | 17,268 | 1,142 | 3,833 | 67 |
+| Json | 107,535 | 0 | 0 | 4 |
+| Python | 17,290 | 1,140 | 3,843 | 67 |
 | ReStructuredText | 2,296 | 0 | 978 | 18 |
 | Html | 1,071 | 1 | 3,770 | 7 |
 | Pan | 225 | 0 | 1 | 2 |
@@ -43,42 +43,33 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly-main` (2026-09-18)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-06
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 39,713 · **Forks**: 3,164 · **Open issues**: 1,653 · **Contributors**: 86
+- **Stars**: 39,777 · **Forks**: 3,172 · **Open issues**: 1,654 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1269 · **Open PRs**: 24 · **Closed issues**: 1615 · **Open issues**: 38 · **Commits**: 1725
+- **Releases**: 29 · **Merged PRs**: 1282 · **Open PRs**: 12 · **Closed issues**: 1616 · **Open issues**: 38 · **Commits**: 1738
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 35 | 18 | 14 | 20 | 43 |
-| last60d | 2026-09-07 | 1 | 117 | 20 | 21 | 29 | 119 |
-| 90d | 2026-08-08 | 4 | 235 | 24 | 41 | 32 | 240 |
-| last180d | 2026-05-10 | 7 | 417 | 24 | 122 | 34 | 415 |
-| 360d | 2025-11-11 | 8 | 613 | 24 | 256 | 35 | 611 |
-| last720d | 2024-11-16 | 9 | 798 | 24 | 384 | 35 | 808 |
+| 30d | 2026-10-08 | 0 | 46 | 6 | 15 | 20 | 56 |
+| last60d | 2026-09-08 | 1 | 124 | 8 | 21 | 29 | 132 |
+| 90d | 2026-08-09 | 4 | 247 | 12 | 42 | 32 | 253 |
+| last180d | 2026-05-11 | 7 | 426 | 12 | 122 | 34 | 428 |
+| 360d | 2025-11-12 | 8 | 626 | 12 | 257 | 35 | 624 |
+| last720d | 2024-11-17 | 9 | 811 | 12 | 385 | 35 | 821 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [maigret_standalone.exe](https://github.com/soxoj/maigret/releases/download/v0.6.6/maigret_standalone.exe) | 41.4 MiB | `other` |
-
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/maigret). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.6.6` | ✅ latest |
-| Nix unstable | `0.6.6` | ✅ latest |
 
 ## Improve this data
 
@@ -89,4 +80,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:34:36Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:55:49Z._
