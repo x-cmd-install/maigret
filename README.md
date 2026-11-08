@@ -48,28 +48,37 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 39,777 · **Forks**: 3,172 · **Open issues**: 1,654 · **Contributors**: 89
+- **Stars**: 39,820 · **Forks**: 3,177 · **Open issues**: 1,654 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1282 · **Open PRs**: 12 · **Closed issues**: 1616 · **Open issues**: 38 · **Commits**: 1738
+- **Releases**: 29 · **Merged PRs**: 1282 · **Open PRs**: 13 · **Closed issues**: 1616 · **Open issues**: 38 · **Commits**: 1738
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 46 | 6 | 15 | 20 | 56 |
-| last60d | 2026-09-08 | 1 | 124 | 8 | 21 | 29 | 132 |
-| 90d | 2026-08-09 | 4 | 247 | 12 | 42 | 32 | 253 |
-| last180d | 2026-05-11 | 7 | 426 | 12 | 122 | 34 | 428 |
-| 360d | 2025-11-12 | 8 | 626 | 12 | 257 | 35 | 624 |
-| last720d | 2024-11-17 | 9 | 811 | 12 | 385 | 35 | 821 |
+| 30d | 2026-10-09 | 0 | 43 | 7 | 15 | 20 | 56 |
+| last60d | 2026-09-09 | 1 | 121 | 9 | 20 | 28 | 132 |
+| 90d | 2026-08-10 | 4 | 242 | 13 | 42 | 32 | 253 |
+| last180d | 2026-05-12 | 7 | 424 | 13 | 121 | 34 | 428 |
+| 360d | 2025-11-13 | 8 | 626 | 13 | 257 | 35 | 624 |
+| last720d | 2024-11-18 | 9 | 810 | 13 | 385 | 35 | 821 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [maigret_standalone.exe](https://github.com/soxoj/maigret/releases/download/v0.6.6/maigret_standalone.exe) | 41.4 MiB | `other` |
+
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/maigret). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.6.6` | ✅ latest |
+| Nix unstable | `0.6.6` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +89,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:55:49Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:00:03Z._
