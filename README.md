@@ -14,12 +14,12 @@ x install maigret
 
 ## Code insight
 
-Total: **128,906** lines of code across **98** files in the top 5 languages.
+Total: **132,835** lines of code across **98** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 107,535 | 0 | 0 | 4 |
-| Python | 17,290 | 1,140 | 3,843 | 67 |
+| Json | 111,359 | 0 | 0 | 4 |
+| Python | 17,395 | 1,146 | 3,863 | 67 |
 | ReStructuredText | 2,296 | 0 | 978 | 18 |
 | Html | 1,071 | 1 | 3,770 | 7 |
 | Pan | 225 | 0 | 1 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly-main` (2026-09-18)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-10
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 39,923 · **Forks**: 3,194 · **Open issues**: 1,654 · **Contributors**: 89
+- **Stars**: 40,275 · **Forks**: 3,232 · **Open issues**: 1,655 · **Contributors**: 91
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1282 · **Open PRs**: 20 · **Closed issues**: 1616 · **Open issues**: 38 · **Commits**: 1738
+- **Releases**: 29 · **Merged PRs**: 1296 · **Open PRs**: 16 · **Closed issues**: 1618 · **Open issues**: 37 · **Commits**: 1752
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 39 | 14 | 13 | 17 | 40 |
-| last60d | 2026-09-11 | 1 | 109 | 16 | 20 | 27 | 117 |
-| 90d | 2026-08-12 | 3 | 228 | 20 | 39 | 31 | 225 |
-| last180d | 2026-05-14 | 7 | 415 | 20 | 119 | 34 | 408 |
-| 360d | 2025-11-15 | 8 | 626 | 20 | 257 | 35 | 624 |
-| last720d | 2024-11-20 | 9 | 810 | 20 | 385 | 35 | 821 |
+| 30d | 2026-10-12 | 0 | 52 | 10 | 14 | 16 | 54 |
+| last60d | 2026-09-12 | 1 | 120 | 12 | 22 | 25 | 131 |
+| 90d | 2026-08-13 | 3 | 242 | 16 | 41 | 30 | 239 |
+| last180d | 2026-05-15 | 7 | 425 | 16 | 121 | 33 | 422 |
+| 360d | 2025-11-16 | 8 | 640 | 16 | 259 | 34 | 638 |
+| last720d | 2024-11-21 | 9 | 824 | 16 | 387 | 34 | 835 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:17:06Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:16:08Z._
