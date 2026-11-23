@@ -23,9 +23,9 @@
 - repo: homebrew
   srcname: maigret
   visiblename: maigret
-  version: 0.6.6
+  version: 0.6.7
   origversion: null
-  status: outdated
+  status: newest
   summary: Collect a dossier on a person by username from thousands of sites
 - repo: homebrew
   srcname: maigret
@@ -38,9 +38,9 @@
   srcname: python/maigret
   binname: maigret
   visiblename: maigret
-  version: 0.6.6
+  version: 0.6.7
   origversion: null
-  status: outdated
+  status: newest
   summary: Maigret collects a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
   maintainers:
     - mps@macports
