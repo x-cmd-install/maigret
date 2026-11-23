@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 41,147 · **Forks**: 3,329 · **Open issues**: 1,682 · **Contributors**: 97
+- **Stars**: 41,190 · **Forks**: 3,334 · **Open issues**: 1,682 · **Contributors**: 97
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 1356 · **Open PRs**: 33 · **Closed issues**: 1648 · **Open issues**: 34 · **Commits**: 1816
+- **Releases**: 30 · **Merged PRs**: 1356 · **Open PRs**: 39 · **Closed issues**: 1648 · **Open issues**: 34 · **Commits**: 1816
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 99 | 28 | 23 | 15 | 103 |
-| last60d | 2026-09-23 | 1 | 153 | 28 | 43 | 22 | 172 |
-| 90d | 2026-08-24 | 3 | 273 | 33 | 65 | 27 | 282 |
-| last180d | 2026-05-26 | 7 | 460 | 33 | 138 | 29 | 466 |
-| 360d | 2025-11-27 | 9 | 695 | 33 | 287 | 31 | 695 |
-| last720d | 2024-12-02 | 10 | 840 | 33 | 409 | 31 | 852 |
+| 30d | 2026-10-24 | 1 | 97 | 34 | 23 | 15 | 90 |
+| last60d | 2026-09-24 | 1 | 152 | 34 | 43 | 22 | 163 |
+| 90d | 2026-08-25 | 3 | 268 | 38 | 62 | 27 | 249 |
+| last180d | 2026-05-27 | 7 | 457 | 39 | 137 | 29 | 450 |
+| 360d | 2025-11-28 | 9 | 695 | 39 | 286 | 31 | 690 |
+| last720d | 2024-12-03 | 10 | 836 | 39 | 409 | 31 | 849 |
 
 ## Release assets
 
@@ -73,11 +73,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/maigret). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/maigret). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.6.6` | ⚠️ outdated |
+| Homebrew | `0.6.7` | ✅ latest |
 | Nix unstable | `0.6.6` | ⚠️ outdated |
 
 ## Improve this data
@@ -89,4 +89,4 @@ Install metadata for maigret lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:44:58Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:27:52Z._
