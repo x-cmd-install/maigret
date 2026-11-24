@@ -109,9 +109,9 @@
 - repo: nix_unstable
   srcname: maigret
   visiblename: maigret
-  version: 0.6.6
+  version: 0.6.7
   origversion: null
-  status: outdated
+  status: newest
   summary: Tool to collect details about an username
   maintainers:
     - mail@fabian-affolter.ch
